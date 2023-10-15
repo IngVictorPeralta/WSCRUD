@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "73a5765e6ad1a905663fdc0d5c146cbd29668d4e37d7abfb957eec03c6d07581"
+build_start_time: [1697356541, 234605000]
+build_end_time: [1697356543, 324512000]
+inputs:
+  "/Users/victorperalta/Documents/WSCRUD/PostViewController.swift": [1697356233, 311628103]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/AppDelegate.swift": [1697327713, 234069824]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/Constants/Constants.swift": [1696698427, 100593805]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/Model/ItemPost+CoreDataClass.swift": [1697335583, 713994622]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/Model/ItemPost+CoreDataProperties.swift": [1697335583, 715205431]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/Model/PostCod.swift": [1697339337, 727422595]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/Model/PostDataManager.swift": [1697351084, 272593737]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/SceneDelegate.swift": [1696696486, 673185706]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/Service/PostServiceManager.swift": [1697353860, 821826577]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/View/PostCell.swift": [1697345025, 796048164]
+  "/Users/victorperalta/Documents/WSCRUD/WSCRUD/ViewController.swift": [1697353481, 508407712]

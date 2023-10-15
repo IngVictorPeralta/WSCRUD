@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9dd8a3064e93440230b92bf147f0875c490d0a287e6c7a1f523a35bcda736729"
+build_start_time: [1697335478, 824339000]
+build_end_time: [1697335478, 911424000]
+inputs:
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/PostViewController.swift": !private [1697332722, 795227829]
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/WSCRUD/AppDelegate.swift": !private [1697327713, 234069789]
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/WSCRUD/Constants/Constants.swift": !private [1696698427, 100593860]
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/WSCRUD/Model/PostCod.swift": !private [1697329255, 874643029]
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/WSCRUD/SceneDelegate.swift": !private [1696696486, 673185741]
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/WSCRUD/Service/PostServiceManager.swift": !private [1697332040, 43600723]
+  "/Users/victorperalta/Documents/Marvel-App/WSCRUD/WSCRUD/ViewController.swift": !private [1697332082, 170636631]
+  ? "/Users/victorperalta/Documents/Marvel-App/WSCRUD/build/WSCRUD.build/Debug-iphonesimulator/WSCRUD.build/DerivedSources/CoreDataGenerated/WSCRUD/PostItem+CoreDataClass.swift"
+  : !private [1697333658, 122264405]
+  ? "/Users/victorperalta/Documents/Marvel-App/WSCRUD/build/WSCRUD.build/Debug-iphonesimulator/WSCRUD.build/DerivedSources/CoreDataGenerated/WSCRUD/PostItem+CoreDataProperties.swift"
+  : !private [1697333658, 123397292]
+  ? "/Users/victorperalta/Documents/Marvel-App/WSCRUD/build/WSCRUD.build/Debug-iphonesimulator/WSCRUD.build/DerivedSources/CoreDataGenerated/WSCRUD/WSCRUD+CoreDataModel.swift"
+  : !private [1697333658, 119901754]
